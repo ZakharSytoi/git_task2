@@ -6,5 +6,5 @@ secondFile.txt file with 10 lines
 secondFile.txt file with 10 lines
 secondFile.txt file with 10 lines
 secondFile.txt file with 10 lines
-secondFile.txt file with 10 lines
-secondFile.txt file with 10 lines
+secondFile.txt file with 10 lines different info iiiiiiiiii
+secondFile.txt file with 10 lines different info in
